@@ -2,7 +2,7 @@
 This is angular-2.0 final release
 
 # Guideline For Starters
-  Install Node.js and npm on your machine
+  # Install Node.js and npm on your machine
   Download this repo or clone to your project
   Install packages: npm install
   Note: If you don't know how to install through the terminal, right-click on the package.json and click install. Some editors 
