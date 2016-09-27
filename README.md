@@ -19,9 +19,10 @@ This is angular-2.0 final release
             <li>typings</li>
         </ul>
         
-        Note: If the typings folder doesn't show up after running npm install, you'll need to install it manually with the 
+ Note: If the typings folder doesn't show up after running npm install, you'll need to install it manually with the 
         command:
-        npm run typings install
+        npm run typings install       
+        
 
 # Little Explanation
    package.json identifies npm package dependencies for the project.
