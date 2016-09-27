@@ -13,11 +13,10 @@ This is angular-2.0 final release
               to run angular-2.
               It will take a while for the installation. After installation, you'll see two (2) new folder or directory in your 
               project.
-        
-    <ul>
-        <li>node_modules</li>
-        <li>typings</li>
-    </ul>
+              
+              i. node_modules
+              ii. typings       
+ 
         
  Note: If the typings folder doesn't show up after running npm install, you'll need to install it manually with the 
         command:
